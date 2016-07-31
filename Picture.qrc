@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/backPicture">
+        <file>back.jpg</file>
+        <file>back2.jpg</file>
+        <file>back3.jpg</file>
+        <file>back4.jpg</file>
+        <file>back5.jpg</file>
+        <file>back6.png</file>
+        <file>exit.png</file>
+        <file>start.png</file>
+        <file>pause.png</file>
+        <file>tetrixIco.ico</file>
+    </qresource>
+</RCC>
